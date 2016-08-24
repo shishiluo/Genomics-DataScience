@@ -1,8 +1,6 @@
 # Genomics-DataScience
-Class materials for LS 88-3 Genomics and Data Science
-
-Fall 2016
-
+Class materials for LS 88-3 Genomics and Data Science  
+Fall 2016  
 Instructor: Shishi Luo
 
 Date  |  Lecture  |   Notes

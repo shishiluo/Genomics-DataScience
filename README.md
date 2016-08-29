@@ -2,7 +2,7 @@
 Fall 2016  
 Instructor: Shishi Luo
 This github contains the class materials for LS 88-3 Genomics and Data Science  
-If you have trouble obtaining some of the readings via the links, you can find the pdfs on the bcourses site  
+If you have trouble obtaining some of the readings via the links, you can find the pdfs on the [bcourses site](https://bcourses.berkeley.edu/courses/1455335/files).  
 
 ##Calendar (subject to change)
 Date  |  Lecture  |   Notes
@@ -24,6 +24,7 @@ Nov 29 | Group presentations |
 
 ##Assessment
   |  Percent of grade | Notes  
+ --- | --- | ---
 Participation | 25% | 
 Labs (completion only) | 25% |
 'Genomics & data science in the news' | 10% | presentation and write-up

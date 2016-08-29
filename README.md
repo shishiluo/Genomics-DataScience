@@ -23,7 +23,7 @@ Nov 22 | Forensics |
 Nov 29 | Group presentations | 
 
 ##Assessment
-  |  Percent of grade | Notes  
+Component  |  % of grade | Notes  
  --- | --- | ---
 Participation | 25% | 
 Labs (completion only) | 25% |

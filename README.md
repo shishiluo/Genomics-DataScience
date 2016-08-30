@@ -1,8 +1,10 @@
 # Genomics-DataScience
 Fall 2016  
 Instructor: Shishi Luo  
+Office Hours: Thu 10-11am, 418 Evans Hall  
 This github contains the class materials for LS 88-3 Genomics and Data Science  
 If you have trouble obtaining some of the readings via the links, you can find the pdfs on the [bcourses site](https://bcourses.berkeley.edu/courses/1455335/files).  
+
 
 ##Calendar (subject to change)
 Date  |  Lecture  |   Notes

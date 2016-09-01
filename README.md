@@ -8,7 +8,7 @@ If you have trouble obtaining some of the readings via the links, you can find t
 
 ##Calendar (subject to change)
 Date  |  Lecture  |   Notes
---- | --- | ---
+------- | :-------------------------- | :------------------------
 Aug 30 | Intro 1: Let's start at the very beginning | Reading: [Mystery of the devious defecator](http://www.nytimes.com/2015/06/02/health/devious-defecator-case-tests-genetics-law.html?_r=0)
 Sep 6 | Intro 2: How is genetic data generated? | Lab: Exploratory analysis of genome sizes, Reading: [Genetic tests to minimize chemotherapy](https://www.ucsf.edu/news/2016/08/403976/some-breast-cancer-patients-low-genetic-risk-could-skip-chemotherapy-study-finds)
 Sep 13 | HIV | 

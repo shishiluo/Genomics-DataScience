@@ -9,4 +9,4 @@
 ### Presentation component
 * Shouldn't exceed 5 minutes
 * Do not just read your written piece
-* Feel free to use slides, the board, video, graphics, interpretative dance, __or not__
+* Feel free to use slides, the board, video, graphics, interpretative dance, _or not_

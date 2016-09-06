@@ -10,3 +10,7 @@
 * Shouldn't exceed 5 minutes
 * Do not just read your written piece
 * Feel free to use slides, the board, video, graphics, interpretative dance, _or not_
+
+## Article ideas
+http://www.npr.org/sections/health-shots/2016/08/17/490386306/study-of-sudden-cardiac-death-exposes-limits-of-genetic-testing  
+http://www.scientificamerican.com/article/exposing-the-student-body/  

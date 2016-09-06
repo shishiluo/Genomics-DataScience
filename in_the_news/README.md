@@ -14,3 +14,4 @@
 ## Article ideas
 http://www.npr.org/sections/health-shots/2016/08/17/490386306/study-of-sudden-cardiac-death-exposes-limits-of-genetic-testing  
 http://www.scientificamerican.com/article/exposing-the-student-body/  
+This blog keeps track of news related to bioethics: http://www.biopoliticaltimes.org/article.php?list=class&class=20&qty=4  

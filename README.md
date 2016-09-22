@@ -13,7 +13,7 @@ Aug 30 | Intro 1: Let's start at the very beginning | Reading: [Mystery of the d
 Sep 6 | Intro 2: How is genetic data generated? | Lab: Exploratory analysis of genome sizes, Reading: [Genetic tests to minimize chemotherapy](https://www.ucsf.edu/news/2016/08/403976/some-breast-cancer-patients-low-genetic-risk-could-skip-chemotherapy-study-finds)
 Sep 13 | HIV 1: The Berlin patient and the Mississippi baby | Readings: The following reviews on HIV/AIDs [Nature Review Genetics review](http://www.nature.com/nrmicro/journal/v11/n12/full/nrmicro3132.html), [The Lancet review](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)60164-1/fulltext) 
 Sep 20 | HIV 2: The HIV genome | Lab: Starts and stops in the HIV genome
-Sep 27 | HIV | 
+Sep 27 | HIV 3: A tale of two genes | Lab: Variation in the Env and Pol genes
 Oct 4 | HIV | 
 Oct 11 | Personal Genomics  | Group project pre-proposal *due* at beginning of class.
 Oct 18 | Personal Genomics |

@@ -1,0 +1,396 @@
+user_id	Coffee consumption
+2953	Don't drink coffee
+4111	3 cups/day
+3840	I don't drink cofee
+3998	2 cups/day
+254	3-5 cups
+784	2 cups/day
+2552	1 cup/dday
+829	5 cups/day
+830	0 cups/day
+836	5 cups/day
+865	4 cups/day
+2557	4 cups/day
+466	Dislike/do not drink
+916	3 cups/day
+918	10 cups/day plus
+924	1 cup/dday
+881	7 cups/day
+2570	5 cups/day
+943	3 cups/daily
+945	1 cup/day to none
+966	0 cups/day
+972	4 cups/day
+990	3 cups/day
+319	0 cups/day
+667	5 cups/Day
+675	0 cups/day
+704	3 cups/day
+10	i don't drink cofee
+14	5 cups/day
+22	"Coffee one day, Green Tea the next"
+1	2 cups/day
+26	1 cup/dday
+36	0 cups/day
+42	5 cups/day
+44	2 cups/day
+45	5 cups/day
+55	2 cups/day
+58	0 cups/day
+60	0 cups/day
+62	5 cups/day
+64	Non-Drinker
+63	0 cups/day
+69	0 cups/day
+72	3 cups/day
+71	4 cups/day
+75	2 cups/day
+77	4 cups/day
+74	10 cups/day plus
+124	"Coffee one day, Green Tea the next"
+125	3 cups/day
+141	5 cups/day
+146	1 cup/day to none
+158	Don't drink coffee
+159	Dislike/Do not drink
+161	CC
+26	1 cup/dday
+177	5 cups/day
+202	Dislike/Do not drink
+203	5 cups/day
+251	2 cups/day
+254	3-5 cups
+266	5 cups/day
+276	5 cups/day
+279	4 cups/day
+285	Don't drink coffee
+287	1 cup/day to none
+294	0 cups/day
+295	0 cups/day
+296	4 cups/day
+17	3 cups/daily
+330	I don't drink cofee
+325	Don't drink coffee
+339	1 cup/day
+339	1 cup/day
+160	2 cups/day
+347	1 cup/day
+363	1 cup/dday
+530	4 cups/day
+366	0 cups/day
+368	1 cup/day to none
+380	1 cup/day to none
+11	Don't drink coffee
+429	5 cups/day
+437	3 cups/day
+345	0 cups/day
+441	Non-drinker
+468	4 cups/day
+42	5 cups/day
+42	5 cups/day
+36	0 cups/day
+473	10 cups/day plus
+35	10 cups/day plus
+495	Don't drink coffee
+501	4 cups/day
+502	4 cups/week
+86	Non-Drinker
+60	0 cups/day
+539	2 cups/day
+678	2 cups/day
+542	i don't drink cofee
+328	different
+549	7 cups/day
+556	"Coffee one day, Green Tea the next"
+554	7 cups/day
+561	3 cups/daily
+579	2 cups/day
+187	0 cups/day
+583	1 cup/Dday
+585	1 cup/Day to none
+503	5 cups/Day
+594	I don't drink cofee
+595	2 cups/Day
+602	1 cup/Day to none
+607	3-5 cups
+613	4 cups/Day
+637	I don't drink cofee
+646	5 cups/Day
+651	2 cups/Day
+610	2 cups/Day
+580	1 cup/dday
+90	3 cups/day
+684	1 cup/day to none
+693	2 cups/day
+36	0 cups/day
+708	1 cup/day to none
+717	5 cups/day
+721	Dislike/do not drink
+726	0 cups/day
+732	5 cups/day
+745	2 cups/day
+749	3 cups/day
+761	"Coffee one day, green tea the next"
+775	5 cups/day
+779	3 cups/day
+782	2 cups/day
+792	2 cups/day
+758	Don't drink coffee
+806	1 cup/dday
+808	3-5 cups
+811	2 cups/day
+816	0 cups/day
+1051	4 cups/day
+1627	0 cups/day
+1029	cc - don't drink coffee
+1039	4 cups/day
+1040	3 cups/day
+1641	1 cup/dday
+1059	4 cups/day
+1062	3 cups/day
+1005	4 cups/week
+1066	5 cups/day
+1075	2 cups/day
+1112	3 cups/day
+1123	1 cup/dday
+2620	2 cups/day
+1258	3 cups/day
+1269	Slow metabolizer
+1325	4 cups/day
+1364	2 cups/day
+1375	3-5 cups
+966	0 cups/day
+966	0 cups/day
+1412	2 cups/day
+1430	Non-drinker
+1439	I don't drink cofee
+1447	2 cups/day
+1457	7 cups/day
+1457	7 cups/day
+1457	7 cups/day
+1459	2 cups/week
+1465	I don't drink cofee
+1470	Slow metabolizer
+1491	1 cup/day to none
+1499	Dislike/do not drink
+999	4 cups/day
+10	i don't drink cofee
+1626	Don't drink coffee
+2660	Dislike/do not drink
+2665	1 cup/day
+1964	5 cups/day
+2677	Non-drinker
+2691	I don't drink cofee
+2705	2 cups/day
+2707	I don't drink cofee
+1647	tea drinker
+2707	I don't drink cofee
+2903	5 cups/day
+2764	1 cup/dday
+2903	5 cups/day
+1686	7 cups/day
+1712	7 cups/day
+1735	2 cups/day
+1738	2 cups/day
+2715	7 cups/day
+1742	5 cups/day
+1759	2 cups/day
+1764	5 cups/day
+1785	2 cups/day
+4297	1 cup/dday
+1794	2 cups/day
+2334	3 cups/day
+1583	0 cups/day
+1583	0 cups/day
+1887	3 cups/day
+1583	0 cups/day
+1583	0 cups/day
+1980	3 cups/day
+1975	0 cups/day
+1987	7 cups/day
+1987	7 cups/day
+1987	7 cups/day
+2008	2 cups/day
+1952	"Coffee one day, green tea the next"
+2072	2 cups/day
+2075	3 cups/day
+2099	5 cups/day
+2111	5 cups/day
+2116	2 cups/day
+2131	2 cups/day
+2151	I don't drink cofee
+2155	3 cups/day
+2158	Tea drinker
+2159	3 cups/day
+1239	4 cups/day
+1472	Espresso fiend
+2239	5 cups/day
+2249	4 cups/day
+2275	I don't drink cofee
+2279	3 cups/day
+2287	3 cups/day
+2288	2 cups/day
+2291	2 cups/day
+2297	4 cups/day
+2533	rs2472297
+2307	3 cups/day
+2314	2 cups/day
+2288	2 cups/day
+2288	2 cups/day
+2334	3 cups/day
+2350	5 cups/day
+2358	3 cups/day
+2385	Fastest Metabolizer - I Live on Caffeine
+2393	2 cups/day
+2412	5 cups/day
+784	2 cups/day
+3050	Dislike/do not drink
+585	1 cup/Day to none
+585	1 cup/Day to none
+1078	0 cups/day
+1035	2 cups/day
+1193	Slow metabolizer
+2755	Fastest metabolizer - i live on caffeine
+2826	Slow metabolizer
+2837	Aa super fast metabolizer
+1215	1 cup/dday
+1221	7 cups/day
+2732	2 cups/day
+2455	I don't drink cofee
+2457	Non-drinker
+2743	2 cups/day
+2506	0 cups/day
+2498	4 cups/day
+2504	Dislike/do not drink
+2858	2 cups/day
+2881	Cc
+2516	2 cups/day
+2758	4 cups/day
+2456	2 cups/day
+2901	5 cups/day
+2542	1 cup/dday
+2856	2 cups/day
+2890	3 cups/day
+2990	2 cups/day
+2837	Aa super fast metabolizer
+2874	0 cups/day
+2964	4 cups/day
+3025	3 cups/daily
+3043	3 cups/day
+2414	1 cup/day to none
+3080	2 cups/day
+3113	1 cup/dday
+3124	2 cups/day
+3043	3 cups/day
+3172	3 cups/day
+3179	7 cups/day
+3193	1 cup/day
+3196	2 cups/day
+3201	2 cups/day
+3400	"Coffee one day, green tea the next"
+3244	Slow metabolizer
+3265	2 cups/day
+3275	Dislike/do not drink
+3280	Non-drinker
+3301	I don't drink cofee
+3321	1 cup/dday
+3321	1 cup/dday
+3341	Cc - don't drink coffee
+3343	4 cups/day
+3357	4 cups/day
+3370	0 cups/day
+3395	2 cups/day
+3395	2 cups/day
+3395	2 cups/day
+1104	AA Super Fast Metabolizer
+1104	AA Super Fast Metabolizer
+3408	7 cups/day
+3411	3-5 cups
+3422	2 cups/day
+3494	5 cups/day
+3532	1 cup/dday
+3523	2 cups/day
+3531	3 cups/day
+3543	2 cups/day
+3571	3-5 cups
+3571	3-5 cups
+3639	4 cups/day
+3642	1 cup/dday
+3651	1 cup/dday
+3660	Dislike/do not drink
+3672	2 cups/day
+3689	"Coffee one day, green tea the next"
+814	Don't drink coffee
+3730	0 cups/day
+3767	1 cup/dday
+3802	2 cups/day
+3806	3 cups/day
+4558	7 cups/day
+3964	1 cup/dday
+3833	1 cup/day
+3942	4 cups/day
+500	2 cups/day
+3922	1 cup/dday
+3930	"Coffee one day, green tea the next"
+3913	3 cups/day
+4009	5 cups/day
+3993	Tea drinker
+4034	4 cups/day
+4012	2 cups/day
+3992	I don't drink cofee
+4084	Dislike/do not drink
+4095	0 cups/day
+4073	2 cups/day
+4064	Rs2472297
+3974	1 cup/day to none
+4178	1 cup/dday
+4178	1 cup/dday
+4224	Fastest metabolizer - i live on caffeine
+607	3-5 cups
+4484	3 cups/day
+4240	2 cups/day
+4245	Don't drink coffee
+4271	Fastest metabolizer - i live on caffeine
+4292	2 cups/day
+4290	3 cups/day
+4181	2 cups/day
+4191	Dislike/do not drink
+3303	Non-drinker
+3732	5 cups/day
+4343	0 cups/day
+3747	1 cup/dday
+3763	2 cups/day
+4356	1  to 2 cups per day
+4359	3 cups/day
+4387	3 cups/day
+4392	Dislike/do not drink
+1	2 cups/day
+4295	Don't drink coffee
+1457	7 cups/day
+1111	2 cups/week
+4342	3 cups/daily
+4428	Occasionally 
+4517	3 cups/day
+4522	1 cup/dday
+4532	3-5 cups
+4539	5 cups/day
+4546	2 cups/day
+4509	0 cups/day
+4438	I don't drink cofee
+4547	Dislike/do not drink
+4590	5 cups/day
+4601	3 cups/day
+1	2 cups/day
+4742	Don't drink coffee
+4756	3-5 cups
+4763	2 cups/day
+4641	0 cups/day
+4654	2 cups/day
+4784	Occasionally 
+4797	3-5 cups
+4813	1 cup/dday
+4825	Occasionally 
+4832	7 cups/day
+4837	I don't drink cofee
+4879	4 cups/day
+4880	3 cups/day

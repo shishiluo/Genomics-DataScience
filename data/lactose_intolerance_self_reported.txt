@@ -1,0 +1,387 @@
+user_id	Lactose intolerance
+2953	Lactose-intolerant
+3858	Lactose tolerant
+3840	Lactose-tolerant
+3998	FALSE
+4088	Lactose-tolerant
+829	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+835	Lactose-intolerant
+836	Lactose-tolerant
+842	Lactose-tolerant
+865	Lactose-tolerant
+2557	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+466	Lactose-tolerant
+915	Lactose-tolerant
+916	Lactose tolerant
+918	Lactose-tolerant
+924	Lactose-tolerant
+926	Lactose-tolerant
+881	Lactose tolerant
+1259	Lactose-intolerant
+2571	FALSE
+2575	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+943	Lactose-tolerant
+341	lactose-tolerant
+945	Lactose-tolerant
+954	Lactose-tolerant
+972	Lactose-tolerant
+990	Lactose tolerant
+667	Lactose-tolerant
+704	FALSE
+703	Lactose tolerant
+8	lactose-intolerant
+10	Genetically intolerant but drink raw milk and eat lots of dairy.
+13	lactose-tolerant
+6	lactose-tolerant
+14	lactose-tolerant
+22	lactose-tolerant
+1	lactose-tolerant
+26	lactose-tolerant
+33	lactose-intolerant
+36	lactose-tolerant
+42	lactose-tolerant
+45	lactose-tolerant
+55	lactose-tolerant
+62	lactose-tolerant
+64	Lactose-tolerant
+63	lactose-tolerant
+69	lactose-tolerant
+71	lactose-tolerant
+75	lactose-tolerant
+77	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+80	Lactose-tolerant
+81	Lactose tolerant
+74	lactose-tolerant
+99	Lactose-tolerant
+123	Lactose-tolerant
+125	lactose-tolerant
+139	lactose-tolerant
+146	lactose-tolerant
+159	lactose-tolerant
+161	AA
+26	lactose-tolerant
+202	lactose-tolerant
+207	lactose-tolerant
+262	lactose-tolerant
+276	lactose-tolerant
+279	Lactose tolerant
+285	Lactose-tolerant
+287	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+294	FALSE
+296	lactose-tolerant
+323	lactose-intolerant
+17	lactose-tolerant
+330	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+325	Lactose tolerant
+339	lactose-intolerant
+339	lactose-intolerant
+337	lactose-tolerant
+160	Lactose-tolerant
+347	Lactose-tolerant
+352	lactose-intolerant
+363	Lactose-tolerant
+366	Lactose-tolerant
+368	lactose-tolerant
+380	lactose-intolerant
+11	lactose-tolerant
+397	lactose tolerant
+411	lactose-tolerant
+437	lactose-tolerant
+463	lactose-tolerant
+441	lactose-tolerant
+468	lactose-tolerant
+42	lactose-tolerant
+42	lactose-tolerant
+36	lactose-tolerant
+35	FALSE
+481	lactose-intolerant
+495	Lactose-tolerant
+502	lactose-tolerant
+86	lactose-tolerant
+539	lactose-tolerant
+542	lactose tolerant
+328	lactose-tolerant
+549	lactose-tolerant
+556	Genetically intolerant but drink raw milk and eat lots of dairy.
+554	lactose-tolerant
+561	lactose-tolerant
+563	lactose-intolerant
+579	lactose-tolerant
+187	Lactose-tolerant
+583	Lactose-tolerant
+585	Lactose-tolerant
+503	Lactose tolerant
+595	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+602	Lactose-tolerant
+613	Lactose-tolerant
+637	Lactose-tolerant
+646	Lactose-tolerant
+651	Lactose tolerant
+610	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+536	Lactose-tolerant
+580	Genetically intolerant but drink raw milk and eat lots of dairy.
+90	lactose-tolerant
+684	FALSE
+693	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+36	lactose-tolerant
+430	Lactose-tolerant
+708	Lactose tolerant
+717	Lactose-tolerant
+721	Lactose tolerant
+726	Lactose-intolerant
+734	Lactose-tolerant
+745	Lactose-tolerant
+749	Lactose-tolerant
+761	Lactose tolerant
+775	FALSE
+776	Lactose-tolerant
+779	Lactose-tolerant
+782	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+781	Lactose-tolerant
+792	Lactose tolerant
+795	Lactose tolerant
+763	Lactose-intolerant
+758	Lactose-tolerant
+806	Lactose-tolerant
+807	Lactose-tolerant
+808	Lactose tolerant
+811	Lactose tolerant
+816	Lactose-tolerant
+1024	FALSE
+1627	Lactose tolerant
+1028	Lactose-tolerant
+1029	Lactose-intolerant
+1036	Lactose-tolerant
+1039	Lactose-intolerant
+1040	Lactose tolerant
+1641	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+685	Lactose-intolerant
+1060	Lactose-tolerant
+1074	Lactose-tolerant
+1005	Lactose-tolerant
+1075	FALSE
+1077	FALSE
+1071	Lactose tolerant
+1079	FALSE
+1081	Lactose-intolerant
+1103	Lactose tolerant
+1114	FALSE
+1123	Lactose-tolerant
+1165	FALSE
+1173	Lactose-intolerant
+2629	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+1147	Lactose-tolerant
+2635	Lactose-intolerant
+1190	FALSE
+1269	Lactose tolerant
+1288	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+1319	Lactose tolerant
+1341	Lactose-intolerant
+1379	Lactose-intolerant
+1409	Lactose tolerant
+1412	Lactose tolerant
+1459	Lactose-tolerant
+1465	Lactose-intolerant
+1491	"Genetically intolerant, partial intolerance."
+1499	FALSE
+1502	Lactose tolerant
+1092	Lactose tolerant
+1537	Lactose tolerant
+1543	Lactose-tolerant
+1548	Lactose-tolerant
+80	Lactose-tolerant
+815	Lactose tolerant
+1599	Lactose-tolerant
+10	Genetically intolerant but drink raw milk and eat lots of dairy.
+1626	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+2645	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+2660	Lactose tolerant
+2665	Lactose tolerant
+2694	Lactose-tolerant
+2691	Lactose-intolerant
+1647	Lactose-tolerant
+2903	Lactose tolerant
+2903	Lactose tolerant
+1712	Lactose tolerant
+1718	FALSE
+1735	FALSE
+1738	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+1742	Lactose-intolerant
+1759	Lactose-tolerant
+1764	Lactose tolerant
+1774	FALSE
+1778	Lactose-intolerant
+1777	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+1837	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+1848	Lactose-intolerant
+1887	Lactose-tolerant
+1183	Lactose tolerant
+1975	Genetically intolerant but drink raw milk and eat lots of dairy.
+1987	Lactose-tolerant
+1987	Lactose-tolerant
+1987	Lactose-tolerant
+1996	Lactose-intolerant
+2008	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+2023	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+2024	Lactose tolerant
+1952	Lactose-tolerant
+2035	Lactose-intolerant
+2050	Lactose tolerant
+2052	Lactose-tolerant
+2055	Lactose-intolerant
+2056	FALSE
+2076	Lactose tolerant
+2067	Lactose tolerant
+2075	Lactose-tolerant
+2090	Lactose-tolerant
+2155	FALSE
+2159	Lactose-tolerant
+2164	Lactose tolerant
+2203	Lactose-intolerant
+2215	Lactose tolerant
+1472	Lactose tolerant
+2238	Lactose-tolerant
+2237	Lactose-intolerant
+2249	Lactose-tolerant
+2275	Lactose tolerant
+2287	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+2288	Lactose-intolerant
+2293	Lactose-intolerant
+2297	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+2307	Lactose-intolerant
+2288	Lactose-intolerant
+2288	Lactose-intolerant
+2362	Lactose-tolerant
+2398	Lactose-tolerant
+2385	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+2356	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+2393	Lactose-intolerant
+2403	Lactose-tolerant
+2410	Lactose-intolerant
+898	Lactose-tolerant
+920	Lactose tolerant
+3050	Lactose-tolerant
+585	Lactose-tolerant
+585	Lactose-tolerant
+1035	Lactose-intolerant
+1193	Lactose tolerant
+1634	Lactose tolerant
+2792	"Genetically intolerant, partial intolerance."
+2797	Lactose-tolerant
+2826	Lactose tolerant
+1566	Lactose tolerant
+2455	Lactose-tolerant
+2506	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+2498	Lactose-tolerant
+2758	Lactose tolerant
+2456	Lactose-tolerant
+2901	FALSE
+2971	Lactose tolerant
+2874	Lactose-tolerant
+2983	Lactose-tolerant
+2996	Lactose-tolerant
+3018	Lactose-intolerant
+3025	FALSE
+3043	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+3046	Lactose-intolerant
+2414	Lactose-tolerant
+3085	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+3108	"Genetically intolerant, partial intolerance."
+3043	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+4667	Lactose tolerant
+3197	Lactose-tolerant
+3400	Lactose tolerant
+3275	Lactose-tolerant
+3289	Lactose-tolerant
+3326	Lactose-tolerant
+3334	Lactose-intolerant
+3343	Lactose-tolerant
+3357	Lactose tolerant
+3370	Lactose-tolerant
+3395	Lactose tolerant
+3395	Lactose tolerant
+3395	Lactose tolerant
+3397	Lactose tolerant
+3397	Lactose tolerant
+3408	Lactose-tolerant
+3454	"Genetically intolerant, partial intolerance."
+3478	Lactose-tolerant
+3486	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+3494	Lactose-intolerant
+3511	Lactose-tolerant
+3526	Lactose-intolerant
+3531	Lactose-intolerant
+3530	Lactose-intolerant
+991	Lactose-tolerant
+991	Lactose-tolerant
+3571	Lactose-intolerant
+3571	Lactose-intolerant
+3581	Lactose-intolerant
+3595	Lactose-intolerant
+3624	Lactose tolerant
+3626	Lactose tolerant
+3639	FALSE
+3642	Lactose-tolerant
+3655	Lactose-tolerant
+3660	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+3668	Lactose-tolerant
+814	Genetically intolerant but drink raw milk and eat lots of dairy.
+3695	Lactose-tolerant
+991	Lactose-tolerant
+3730	Lactose-intolerant
+3767	Genetically tolerant-extrememly lactose intolerant
+3802	Lactose-tolerant
+4558	Lactose tolerant
+4041	Lactose-tolerant
+3967	Lactose tolerant
+3865	Lactose-tolerant
+3942	Lactose-tolerant
+3934	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+500	Lactose tolerant
+3922	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+3930	Lactose tolerant
+4018	Lactose tolerant
+3993	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+3990	 allergic to all forms of dairy 
+4034	Lactose-tolerant
+4012	Lactose-intolerant
+4084	Lactose-tolerant
+4064	Lactose tolerant
+3974	 Allergic to all forms of dairy 
+3853	Lactose tolerant
+3882	Lactose-tolerant
+4178	Lactose-intolerant
+4178	Lactose-intolerant
+3821	Lactose-tolerant
+4218	Lactose-tolerant
+4245	FALSE
+4667	Lactose tolerant
+4271	Lactose-tolerant
+4292	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+4290	Lactose tolerant
+4351	Lactose-intolerant
+4191	"Genetically intolerant, partial intolerance."
+4257	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+3670	Lactose-tolerant
+3775	Lactose tolerant
+4356	Lactose-tolerant
+1	lactose-tolerant
+1449	Lactose tolerant
+1111	Lactose-tolerant
+4342	Lactose-tolerant
+4428	Lactose-tolerant
+4372	"Genetically intolerant, partial intolerance."
+4538	Partially lactose intolerant - surfaces with a lot of dairy products in one day
+4546	"Genetically intolerant, partial intolerance."
+4509	Genetically intolerant but drink raw milk and eat lots of dairy.
+4601	Lactose-intolerant
+1	lactose-tolerant
+4763	Lactose tolerant
+4641	severe GI pain but genetics say I can digest milk
+4552	Lactose tolerant
+4651	Lactose tolerant
+4784	Lactose-tolerant
+4797	Lactose-tolerant
+4801	Lactose-tolerant
+4879	Lactose-tolerant
+4888	Lactose-tolerant

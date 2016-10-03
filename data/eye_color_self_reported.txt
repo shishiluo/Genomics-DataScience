@@ -1,0 +1,825 @@
+user_id	Eye color
+2953	Dark brown
+4440	Brown
+4441	Blue
+4111	Hazel/light brown
+4106	Blue
+4171	Brown
+4170	Brown-green
+3858	Blue-grey; broken amber collarette
+3847	Blue-grey
+3840	Green
+3973	Brown
+3985	Blue-green
+3998	Blue
+4026	Blue-green
+4088	Hazel/light brown
+4133	Blue-grey
+820	Brown
+822	Green
+609	Blue
+829	Blue-grey
+830	Brown-green
+832	Brown
+4036	Hazel
+835	Brown-green
+836	Blue-grey
+839	Blue-grey
+842	Blue-green
+845	Brown
+845	Brown
+850	Blue
+854	Brown
+865	Green
+2557	Brown
+466	Brown
+912	Blue
+915	Blue
+916	Brown
+918	Brown
+924	Brown
+926	Brown
+881	Blue
+887	Blue
+903	Blue
+2568	Green
+2570	Blue-green
+1259	Brown
+2571	Brown
+2574	Brown
+3004	Gray-blue
+937	Blue-green
+943	Dark brown
+669	Blue
+341	blue-grey
+945	Blue-grey
+951	Brown
+952	Green
+954	Dark brown
+966	Brown
+951	Brown
+968	Blue
+972	Blue
+990	Blue
+1010	Brown
+1013	Hazel
+319	blue-green
+667	Blue-green
+675	Brown
+180	Hazel
+704	Hazel
+703	Green
+8	Brown
+10	Brown
+13	brown
+6	brown
+14	Brown
+22	green
+1	blue-green
+26	blue-green
+33	Brown
+36	hazel
+38	blue
+42	hazel
+44	brown
+45	blue-green
+55	blue
+58	blue
+60	hazel
+62	Brown
+64	Blue
+63	blue
+40	Blue
+69	Brown
+72	Brown
+71	Brown
+75	brown-green
+77	hazel
+81	blue-green
+74	blue
+99	Dark blue
+118	Brown
+123	Blue
+124	Green
+125	brown
+126	Brown
+141	Brown
+144	Brown
+146	brown
+154	Brown
+158	brown
+159	blue-green
+161	GG
+111	Green
+168	hazel
+175	Brown
+26	blue-green
+177	Dark blue
+664	Brown
+200	blue
+202	blue
+203	brown
+204	Blue-green
+207	Blue
+215	blue
+251	blue-green
+253	blue-green
+252	blue
+258	Hazel/Light Brown
+262	Brown
+266	Dark brown
+268	Brown
+241	Light-mixed Green
+216	Blue
+276	Brown
+279	brown
+280	Hazel
+285	Brown
+287	Green
+288	green
+288	green
+288	green
+294	Blue
+295	blue-green
+296	hazel
+305	hazel
+305	hazel
+305	hazel
+311	Brown
+322	Hazel/Light Brown
+323	brown
+17	green
+330	Dark blue
+325	Hazel
+339	Brown
+339	Brown
+337	green
+160	blue-green
+347	blue-grey
+349	Green
+352	blue
+357	Brown
+363	blue-grey
+366	brown
+368	Blue-grey; broken amber collarette
+380	brown-green
+189	brown
+394	green
+11	brown
+397	indeterminate brown-green with a subtle grey caste
+411	blue
+420	hazel
+429	blue-green 
+437	green
+439	Blue-green
+345	blue-grey
+440	Brown
+463	blue-grey
+441	blue
+468	hazel
+42	hazel
+42	hazel
+36	hazel
+473	gray-blue
+35	Hazel
+481	brown
+483	Brown
+488	brown
+495	Green
+497	Light-mixed Green
+502	blue-green 
+60	hazel
+533	Blue
+539	brown
+678	Brown
+542	blue-grey
+328	green-brown
+549	brown
+556	brown-green
+554	brown-green
+561	Brown
+563	Dark brown
+567	green
+572	blue-green
+574	Blue
+579	blue
+581	green
+187	Brown
+583	Blue-grey
+585	Blue-grey
+589	Brown
+503	Blue
+682	Blue
+595	Hazel
+602	Blue
+607	Blue
+613	Brown-green
+636	Blue-grey; broken amber collarette
+637	Green
+644	Brown
+645	Blue-green
+646	Blue-grey
+650	Brown
+651	Blue
+610	Brown
+580	Brown
+90	hazel
+684	Blue-grey; broken amber collarette
+688	Dark brown
+693	Hazel
+36	hazel
+430	Brown
+717	Blue-grey
+721	Blue-grey; broken amber collarette
+722	Green-brown
+726	Brown-green
+734	Blue
+745	Brown
+748	Brown
+749	Blue
+754	Brown
+2576	Brown
+761	Hazel
+762	Brown
+775	Blue
+776	Blue
+777	Brown
+778	Blue-grey
+779	Blue-grey
+782	Green
+781	Hazel
+792	Brown
+795	Green
+798	Brown-green
+799	Brown-green
+763	Brown
+803	Brown-(green when external temperature rises)
+758	Blue
+806	Blue-green
+807	Brown-green
+808	Dark blue
+811	Blue-green
+813	Brown
+816	Green-brown
+1022	Blue-green
+1026	Hazel/light brown
+1627	Brown
+1028	Blue
+1029	Rs12913832 aa
+2616	Brown
+1034	Brown
+1036	Brown
+1039	Blue
+1040	Mixed
+1059	Hazel
+1066	Blue-grey; broken amber collarette
+1075	Blue-green
+1077	Blue-grey
+1071	Brown-green
+1081	Brown
+1085	Blue-green
+1103	Blue
+1125	Brown
+1114	Brown
+1033	Brown
+1121	Hazel/light brown
+1089	Gg
+2628	Dark brown
+1163	Brown
+1177	Blue-green
+1165	Green
+1173	Dark brown
+1133	Blue
+2629	Green
+1445	Green
+2633	Blue
+1147	Blue
+1134	Blue-green
+1139	Gg
+1142	Brown
+1131	Blue
+1129	Blue
+1235	Brown
+2887	Dark brown
+1190	Green
+1269	Light-mixed green
+1275	Dark blue
+1279	Blue
+1281	Brown
+1283	Blue-grey
+1288	Brown-green
+1325	Green
+1330	Green
+1312	Hazel
+1375	Dark brown
+1379	Blue-grey; broken amber collarette
+1384	Indeterminate brown-green with a subtle grey caste
+1392	Brown-green
+1393	Blue
+1403	Brown
+966	Brown
+966	Brown
+1420	Brown
+1424	Blue-grey
+1459	Blue
+1466	Brown
+1467	Brown
+1470	Brown
+1491	Green
+1494	Blue
+1499	Blue-green 
+1514	Blue
+1092	Blue
+1519	Brown
+1532	Dark brown
+1531	Hazel
+1537	Brown
+2894	Dark blue
+1600	Blue
+10	Brown
+2645	Brown
+2648	Hazel
+2651	Blue
+2660	Blue
+2662	Brown
+2663	Rs12913832 aa
+1532	Dark brown
+2665	Brown
+1964	Blue
+2675	Dark brown
+2681	Blue with yellow parts
+2694	Brown
+2687	Hazel
+2691	Blue-green 
+2702	Brown
+2707	Hazel
+1647	Green
+2700	Hazel
+2707	Hazel
+2759	Brown
+2764	Blue-green
+488	brown
+2907	Brown
+1668	Brown
+1678	Brown
+1717	Hazel
+1735	Brown
+2715	Blue
+1759	Brown
+1764	Blue
+1785	Brown-green
+4297	Blue-grey
+1802	Blue
+1825	Brown
+2334	Blue-green
+1837	Brown
+1833	Blue
+1583	Hazel
+1583	Hazel
+1875	Green
+1877	Brown
+1879	Dark brown
+1183	Brown
+1583	Hazel
+1583	Hazel
+1960	Blue
+1963	Brown
+1968	Blue
+1970	Blue
+1980	Hazel
+1975	Green-brown
+1987	Brown
+1991	Brown
+1987	Brown
+1987	Brown
+1996	Brown
+2000	Green-gray
+2004	Blue-grey; broken amber collarette
+2720	Hazel
+2008	Brown-green
+2018	Brown
+2023	Green
+2024	Blue
+1952	Brown
+2030	Dark blue
+2035	Dark brown
+2053	Brown
+2056	Blue
+2070	Dark brown
+2075	Dark brown
+2077	Brown
+2080	Blue-green
+2099	Gray-blue
+2101	Blue
+2116	Blue-grey
+2133	Brown
+2153	Brown
+2158	Light-mixed green
+2162	Brown-green
+2166	Blue
+2177	Blue
+2183	Hazel
+1588	Blue
+2199	Green
+2202	Green
+2203	Blue
+2207	Hazel
+1121	Hazel/light brown
+2212	Green-gray
+2217	Brown
+2725	Brown
+1472	Brown
+2236	Brown
+2238	Blue
+2239	Brown
+2249	Blue-green
+2274	Blue-grey
+2275	Green
+2199	Green
+2276	Brown
+2278	Blue-grey
+2279	Dark brown
+2287	Brown
+2288	Hazel
+2291	Blue-grey; broken amber collarette
+2293	Rs12913832 aa
+2297	Hazel
+2533	Rs12913832 ag (they
+2322	Green-gray
+2304	Blue
+2307	Blue-green
+2316	Blue-grey
+2314	Hazel
+2288	Hazel
+2288	Hazel
+2334	Blue-green
+2337	Grey brown
+2337	Grey brown
+2350	Blue-green
+2358	Brown
+2361	Green
+2362	Green
+2398	Green
+2367	Blue-green
+2385	Olive-Brown ringing Burnt Umber-Brown
+2356	Blue-green 
+210	Blue
+2403	Dark brown
+2402	Brown
+898	Blue-grey
+909	Blue
+920	Brown
+922	Brown
+994	Brown
+3050	Brown
+512	Blue
+585	Blue-grey
+585	Blue-grey
+1078	Brown
+1035	Brown-green
+1196	Green
+1209	Brown
+862	Brown
+1233	Brown
+1879	Dark brown
+2797	Blue
+2826	Dark blue
+2839	Dark brown
+2841	Green-brown
+1221	Green-brown
+1566	Brown
+2729	Brown
+2732	Brown
+2718	Ambar-Green
+2739	Blue-green
+2748	Blue-grey
+2849	Brown-(green when external temperature rises)
+2419	Blue
+2421	Brown
+2453	Hazel
+2454	Blue
+2455	Brown
+2457	Hazel
+2498	Blue-grey
+2507	Mixed
+2512	Green-brown
+2513	Brown
+2858	Green-brown
+2881	Green
+2456	Blue
+2535	Dark brown
+2901	Brown
+2542	Hazel
+2856	Dark brown
+2886	Light-mixed green
+2890	Blue-green
+2920	Blue
+2980	Green-gray
+2949	Brown
+2958	Blue
+2960	Brown
+2966	Hazel/light brown
+2874	Gray-blue
+2964	Brown-green
+2969	Green
+2996	Mixed
+2998	Brown
+3017	Brown-green
+3015	Brown
+3034	Hazel
+3043	Brown
+3046	Brown
+3048	Brown
+3048	Brown
+3068	Brown-green
+3069	Brown
+3078	Blue
+3080	Brown-green
+3085	Brown
+3090	Hazel
+3097	Blue
+3100	Blue with yellow parts
+3104	Blue-green
+3111	Hazel
+3113	Brown
+3122	Brown
+3124	Brown
+3129	Hazel
+3130	Hazel/light brown
+3137	Hazel
+3108	Brown
+3140	Brown
+3145	Hazel/light brown
+3043	Brown
+3160	Hazel
+3167	Hazel
+4667	Brown
+3176	Green
+3179	Blue
+3186	Ambar-green
+3192	Brown
+3193	Blue-grey; broken amber collarette
+3196	Dark brown
+3197	Hazel/light brown
+3199	Brown
+3206	Blue-green
+3211	Brown-green
+3216	Blue-green
+3221	Green
+3224	Green
+3234	Green
+3244	Green
+3248	Green
+3265	Gray-blue
+3267	Brown
+3275	Blue-grey
+3277	Blue-green 
+3277	Blue-green 
+3280	Hazel
+3289	Blue with yellow parts
+3301	Dark brown
+3304	Brown
+3309	Blue-green
+3320	Brown-green
+3320	Brown-green
+3321	Green-gray
+3321	Green-gray
+3324	Blue
+3326	Green
+3335	Dark brown
+3341	Blue with yellow parts
+3343	Hazel
+3344	Blue
+3357	Brown
+3364	Brown
+3340	Brown
+3370	Hazel
+3375	Brown
+3393	Brown
+3394	Brown
+3395	Brown
+3395	Brown
+3395	Brown
+3397	Dark brown
+3397	Dark brown
+3399	Green-brown
+1104	rs12913832 AG (they
+1104	rs12913832 AG (they
+3415	Brown-green
+3417	Green-gray
+3422	Green
+3423	Hazel
+3449	Dark blue
+3454	Hazel
+3468	Brown
+3478	Hazel
+3486	Dark brown
+3494	Hazel
+3499	Brown
+3257	Brown-green
+3532	Green
+3531	Blue
+991	Blue-grey
+991	Blue-grey
+3543	Blue-grey; broken amber collarette
+298	Brown
+3547	Olive-brown ringing burnt umber-brown
+3569	Blue-green
+3571	Hazel/light brown
+3571	Hazel/light brown
+3581	Hazel/light brown
+3582	Hazel
+3595	Blue-grey
+3598	Hazel
+3605	Green-brown
+3611	Blue
+3615	Brown
+3622	Brown
+3624	Blue
+3625	Brown
+3626	Brown-green
+3639	Olive-brown ringing burnt umber-brown
+3642	Blue
+3643	Blue-green
+3644	Blue
+3655	Green
+3660	Blue with yellow parts
+3688	Green
+3682	Blue-grey
+3689	Brown-green
+814	Mixed
+3695	Brown-green
+3706	Blue-green
+3706	Blue-green
+991	Blue-grey
+3724	Dark blue
+3728	Brown
+3733	Blue-grey
+4557	Brown-green
+3767	Hazel
+3782	Blue
+3782	Blue
+3783	Brown-green
+3786	Blue
+3788	Blue-green
+3806	Blue-green
+3813	Blue-grey
+3904	Dark brown
+3886	Light-mixed green
+3971	Blue-grey
+3964	Dark brown
+3967	Gray-blue
+3965	Brown
+3954	Blue grey
+3865	Blue-grey
+3835	Indeterminate brown-green with a subtle grey caste
+3834	Blue-green
+3833	Green
+3942	Blue-grey
+3934	Brown
+500	Blue-grey
+3922	Dark brown
+3930	Blue-green
+3921	Dark brown
+3913	Dark brown
+4042	Hazel/light brown
+4038	Rs12913832 ag (they
+2191	Brown
+4018	Brown
+4009	Blue
+3993	Hazel
+4034	Brown
+4032	Brown
+4012	Brown
+4010	Brown
+4006	Brown
+3992	Brown-green
+4084	Brown-green
+4095	Hazel
+4080	Blue
+4064	Green
+4056	Blue-grey
+4057	Hazel
+4030	Hazel
+3979	Brown
+3853	Brown
+3931	Dark brown
+3908	Blue
+3905	Olive-brown ringing burnt umber-brown
+3885	Blue-green 
+3882	Blue
+3883	Dark brown
+3881	Green
+4147	Hazel
+4143	Blue
+4127	Dark brown
+4173	Blue-grey
+4029	Brown-green
+4159	Blue-grey
+4671	Brown
+4178	Hazel
+4178	Hazel
+4672	Brown
+3821	Green
+4194	Hazel/light brown
+4198	Brown-green
+4204	Blue
+4207	Brown-green
+4212	Blue
+4213	Blue
+4215	Blue with yellow parts
+3782	Blue
+4224	Blue-green
+607	Blue
+4484	Blue
+4235	Green
+4241	Dark brown
+4245	Hazel
+4248	Hazel
+4251	Green-brown
+4258	Green
+4667	Brown
+4271	Hazel
+4290	Brown
+4482	Hazel
+4676	Blue-green
+4320	Brown
+4360	Blue grey
+4490	Dark brown
+4181	Blue-green 
+3303	Brown-green
+4192	Blue
+4176	Brown
+4201	Brown
+4200	Blue
+4230	Brown
+4346	Green-brown
+4343	Hazel
+3766	Brown
+3780	Brown
+4356	Hazel
+4359	Dark blue
+4463	Blue-green
+4569	Hazel/light brown
+4381	Brown
+1	blue-green
+4399	Green
+925	Blue
+1050	Hazel/light brown
+1111	Blue-grey
+4428	Brown
+4430	Gray-blue
+4499	Blue
+2419	Blue
+4502	Brown
+4507	Brown
+4538	Blue with yellow parts
+4539	Hazel
+4568	Blue
+4438	Blue-green
+4547	Hazel
+4577	Brown
+4587	Green
+4594	Blue
+4597	Brown
+4598	Brown
+4602	Hazel/light brown
+4604	Brown
+4605	Brown
+4613	Blue
+4621	Blue-green
+4679	Blue-green
+4680	Brown
+2074	Dark blue
+1	blue-green
+4754	Hazel/light brown
+4756	Blue
+4758	Dark brown
+1426	Green
+4763	Green
+4632	Brown
+4643	Brown-green
+4552	Green-Hazel
+4644	Brown
+4646	Brown
+4694	Green
+4695	Dark blue
+4648	Blue
+4651	Blue
+4652	Green-brown
+4654	Ambar-green
+4715	Brown
+4796	Dark brown
+4797	Hazel
+4813	Brown - Brown and green in bright sunlight
+4814	Brown
+4825	Blue-green
+4833	Brown
+4834	Green-hazel
+4851	Dark brown
+4832	Blue-grey; broken amber collarette
+4837	Brown
+4859	Brown
+4859	Brown
+4879	Light-mixed green
+4880	Brown

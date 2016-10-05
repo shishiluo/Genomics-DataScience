@@ -16,7 +16,7 @@ Sep 20 | HIV 2: The HIV genome | Lab: Starts and stops in the HIV genome
 Sep 27 | HIV 3: A tale of two genes | Lab: Variation in the Env and Pol genes, Reading: [Guilty Sequence](http://www.genomenewsnetwork.org/articles/01_03/hiv.shtml)
 Oct 4 | HIV 4: Forensic Phylogenetics|  Lab: Matching the HIV sequence to the patient, Reading: [My Genome, My Self](http://www.nytimes.com/2009/01/11/magazine/11Genome-t.html?_r=0)
 Oct 11 | Personal Genomics 1: There's a SNP for that  | Group project proposal *due* at beginning of class.
-Oct 18 | Personal Genomics|
+Oct 18 | Personal Genomics 2: The statistics behind genome-wide association studies|
 Oct 25 | Personal Genomics | 
 Nov 1 | Buffer week | 
 Nov 8 | Forensics  | 

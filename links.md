@@ -18,3 +18,7 @@
 * NIH summary:  https://medlineplus.gov/magazine/issues/summer11/articles/summer11pg10-12.html
 * New Scientist timeline: https://www.newscientist.com/article/dn9949-timeline-hiv-and-aids/
 * HIV life cycle video: https://www.youtube.com/watch?v=odRyv7V8LAE
+
+## Lecture 6 (Oct 4)
+* Background on the criminal case: http://www.genomenewsnetwork.org/articles/01_03/hiv.shtml
+* Publication about the analysis undertaken by the scientists working for the prosecution: http://www.pnas.org/content/99/22/14292.long 

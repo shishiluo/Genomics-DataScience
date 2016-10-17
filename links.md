@@ -22,3 +22,9 @@
 ## Lecture 6 (Oct 4)
 * Background on the criminal case: http://www.genomenewsnetwork.org/articles/01_03/hiv.shtml
 * Publication about the analysis undertaken by the scientists working for the prosecution: http://www.pnas.org/content/99/22/14292.long 
+
+## Lecture 7 (Oct 11)
+* Reference website for trait-associated SNPs: http://www.SNPedia.org
+* GWAS catalog: https://www.ebi.ac.uk/gwas/
+* The data for our mini-GWAS comes from: http://www.opensnp.org
+* Institutionally-supported project for gathering genotypes and phenotypes: http://www.personalgenomes.org/

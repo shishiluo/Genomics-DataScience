@@ -22,7 +22,7 @@ Nov 1 | Forensics |
 Nov 8 | Forensics  | 
 Nov 15 | Forensics | 
 Nov 22 | Group presentations | 
-Nov 29 | Group presentations | 
+Nov 29 | Group presentations | Due date for project report and code
 
 ##Assessment
 Component  |  % of grade | Notes  

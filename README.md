@@ -17,7 +17,7 @@ Sep 27 | HIV 3: A tale of two genes | Lab: Variation in the Env and Pol genes, R
 Oct 4 | HIV 4: Forensic Phylogenetics|  Lab: Matching the HIV sequence to the patient, Reading: [My Genome, My Self](http://www.nytimes.com/2009/01/11/magazine/11Genome-t.html?_r=0)
 Oct 11 | Personal Genomics 1: There's a SNP for that  | Group project proposal *due* at beginning of class. Lab: Pre-processing phenotype data
 Oct 18 | Personal Genomics 2: The statistics behind genome-wide association studies| Lab: Mini GWAS
-Oct 25 | Personal Genomics | 
+Oct 25 | Personal Genomics 3: The ethics of genetic testing for health and ancestry| Special guest lecture by [Brian Jonsrud](http://www.brianjohnsrud.com/portfolio/crusaderdna/)
 Nov 1 | Forensics | 
 Nov 8 | Forensics  | 
 Nov 15 | Forensics | 

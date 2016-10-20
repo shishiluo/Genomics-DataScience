@@ -28,3 +28,6 @@
 * GWAS catalog: https://www.ebi.ac.uk/gwas/
 * The data for our mini-GWAS comes from: http://www.opensnp.org
 * Institutionally-supported project for gathering genotypes and phenotypes: http://www.personalgenomes.org/
+
+## Lecture 8 (Oct 18)
+* If you're interested in reading more about GWAS, here's a fairly accessible article: http://jamanetwork.com/journals/jama/fullarticle/181647

@@ -18,8 +18,8 @@ Oct 4 | HIV 4: Forensic Phylogenetics|  Lab: Matching the HIV sequence to the pa
 Oct 11 | Personal Genomics 1: There's a SNP for that  | Group project proposal *due* at beginning of class. Lab: Pre-processing phenotype data
 Oct 18 | Personal Genomics 2: The statistics behind genome-wide association studies| Lab: Mini GWAS
 Oct 25 | Personal Genomics 3: The ethics of genetic testing for health and ancestry| Special guest lecture *postponed* to Nov 15
-Nov 1 | Forensics | 
-Nov 8 | Forensics  | 
+Nov 1 | Forensics 1: The genetics of innocence| Lab: CODIS data set, watch this [TED talk](http://www.ted.com/talks/peter_donnelly_shows_how_stats_fool_juries?language=en?utm_source=tedcomshare&utm_medium=referral&utm_campaign=tedspread)
+Nov 8 | Forensics 2: The genetics of guilt | 
 Nov 15 | Forensics | 
 Nov 22 | Group presentations | 
 Nov 29 | Group presentations | Due date for project report and code

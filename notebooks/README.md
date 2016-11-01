@@ -7,3 +7,4 @@
 [Click here to view](https://shishiluo.github.io/Genomics-DataScience/notebooks/lab5_personal_genomics_pre-processing.html) lab 5  
 [Click here to view](http://htmlpreview.github.io/?https://github.com/shishiluo/Genomics-DataScience/blob/master/notebooks/lect_personal_genomics_2_chi2.html) Calculations for Personal Genomics 2 lecture  
 [Click here to view](https://shishiluo.github.io/Genomics-DataScience/notebooks/lab6_personal_genomics_association.html) lab 6  
+[Click here to view](https://shishiluo.github.io/Genomics-DataScience/notebooks/lab7_forensics_CODIS.html) lab 7  

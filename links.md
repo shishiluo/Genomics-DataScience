@@ -31,3 +31,11 @@
 
 ## Lecture 8 (Oct 18)
 * If you're interested in reading more about GWAS, here's a fairly accessible article: http://jamanetwork.com/journals/jama/fullarticle/181647
+
+## Lecture 9 (Oct 25)
+* See slides for the links
+
+## Lecture 10 (Nov 1)
+* Genetics of Innocence article: http://www.annualreviews.org/doi/full/10.1146/annurev-genom-082509-141715
+* Also a good review article about forensic DNA testing: http://www.nature.com/nrg/journal/v5/n10/full/nrg1455.html
+* See slides for more links to relevant articles 

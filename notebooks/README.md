@@ -8,3 +8,4 @@
 [Click here to view](http://htmlpreview.github.io/?https://github.com/shishiluo/Genomics-DataScience/blob/master/notebooks/lect_personal_genomics_2_chi2.html) Calculations for Personal Genomics 2 lecture  
 [Click here to view](https://shishiluo.github.io/Genomics-DataScience/notebooks/lab6_personal_genomics_association.html) lab 6 ([Solutions](https://shishiluo.github.io/Genomics-DataScience/notebooks/lab6_personal_genomics_association_solutions.html))  
 [Click here to view](https://shishiluo.github.io/Genomics-DataScience/notebooks/lab7_forensics_CODIS.html) lab 7  
+[Click here to view](https://shishiluo.github.io/Genomics-DataScience/notebooks/lab8_forensics_CODIS_redux.html) lab 8  

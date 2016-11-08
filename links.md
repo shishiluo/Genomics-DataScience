@@ -39,3 +39,6 @@
 * Genetics of Innocence article: http://www.annualreviews.org/doi/full/10.1146/annurev-genom-082509-141715
 * Also a good review article about forensic DNA testing: http://www.nature.com/nrg/journal/v5/n10/full/nrg1455.html
 * See slides for more links to relevant articles 
+
+## Lecture 11 (Nov 8)
+* Peter Donnelly's recount of R v Adams case: http://onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2005.00089.x/full
